@@ -1,0 +1,8 @@
+{
+  "name": "Intelligent Air Quality ML System",
+  "description": "An Intelligent Data-Driven System for Air Quality Prediction Using Machine Learning and Environmental Data Analytics featuring end-to-end data preprocessing, EDA, multi-model evaluation (Random Forest, Linear Regression, Decision Tree, Gradient Boosting, SVM), interactive feature simulator, and CEP technical documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
